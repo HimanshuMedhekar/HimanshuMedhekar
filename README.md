@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, Data Science
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me via email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: HeMan
+- ⚡ Fun fact: I am a Web Developer
 
 <!---
 HimanshuMedhekar/HimanshuMedhekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
