@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimanshuMedhekar
+- 👋 Hi, I’m Himanshu Medhekar
 - 👀 I’m interested in Web Development, AI
 - 🌱 I’m currently learning Python, Data Science
 - 💞️ I’m looking to collaborate on github
