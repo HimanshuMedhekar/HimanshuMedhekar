@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimanshuMedhekar
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Web Development, AI
 - 🌱 I’m currently learning Python, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
